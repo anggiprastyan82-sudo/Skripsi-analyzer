@@ -24,3 +24,11 @@
     "noEmit": true
   }
 }
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
+}
